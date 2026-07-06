@@ -42,6 +42,10 @@ The application allows users to:
 - Adjust temperature sampling
 - Compare different random initializations
 
+<p align="center">
+  <img src="assets/example_dataset.png" width="700">
+</p>
+
 Instead of using Transformers or LSTMs, this project implements an efficient **feed-forward neural language model (MLP)** that predicts the next word using a fixed-length context window.
 
 ---
