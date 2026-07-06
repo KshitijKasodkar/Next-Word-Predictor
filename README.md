@@ -401,7 +401,9 @@ This project is licensed under the **MIT License**.
 **Kshitij Kasodkar**
 
 B.Tech
+
 Dual Major in Material Engineering and Computer Science Engineering
+
 Indian Institute of Technology Gandhinagar
 
 GitHub:
@@ -409,4 +411,3 @@ https://github.com/KshitijKasodkar
 
 ---
 
-## ⭐ If you found this project interesting, consider giving it a star!
