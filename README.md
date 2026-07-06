@@ -15,7 +15,7 @@ The project provides a modern **Streamlit interface** where users can experiment
 # 🌐 Live Demo
 
 👉 **Try it here:**  
-https://next-word-predictor-lcl1.onrender.com
+https://movie-recommendation-system-final.onrender.com
 
 No installation required.
 
