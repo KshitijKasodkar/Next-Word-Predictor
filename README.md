@@ -1,6 +1,6 @@
 # 🧠 Next Word Predictor: Interactive Language Modeling with PyTorch
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue?style=for-the-badge&logo=streamlit)](YOUR_RENDER_URL)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue?style=for-the-badge&logo=streamlit)](https://next-word-predictor-lcl1.onrender.com)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
@@ -15,7 +15,7 @@ The project provides a modern **Streamlit interface** where users can experiment
 # 🌐 Live Demo
 
 👉 **Try it here:**  
-RENDER_URL
+https://next-word-predictor-lcl1.onrender.com
 
 No installation required.
 
