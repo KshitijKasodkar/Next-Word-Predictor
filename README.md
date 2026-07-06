@@ -23,8 +23,6 @@ No installation required.
 
 # 📸 Application Preview
 
-![Application Screenshot](<img width="1398" height="1180" alt="Screenshot 2026-07-06 065309" src="https://github.com/user-attachments/assets/3b13d5fd-15d6-4f87-aa78-59de5ea4f221" />
-)
 <img width="1290" height="1246" alt="Screenshot 2026-07-06 065525" src="https://github.com/user-attachments/assets/8406b260-02b0-488f-956f-32c53ecdc6ca" />
 
 
